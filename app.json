@@ -1,7 +1,7 @@
 {
     "name": "Tag All Bot",
     "description": "A telegram bot that tags all the users in a group.",
-    "repository": "https://github.com/YAIFoundation/TagAllBot",
+    "repository": "https://github.com/abhijitkar/TagAllBot",
     "logo": "",
     "keywords": [
         "python",
